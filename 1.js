@@ -1,2 +1,2 @@
-#first js code
+//first js code
 console.log("Hello World");
